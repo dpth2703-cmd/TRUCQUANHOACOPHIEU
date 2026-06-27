@@ -14,7 +14,7 @@ st.set_page_config(
     page_icon="📈",
     layout="wide"
 )
-st.image("logo.jpg")
+st.image("logo.jpg.jpg")
 st.title("TRUC QUAN HOA CO PHIEU")
 
 # =============================
