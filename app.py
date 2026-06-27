@@ -15,7 +15,7 @@ st.set_page_config(
     layout="wide"
 )
 st.image("logo.jpg")
-st.title("📈 PHÂN TÍCH GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL")
+st.title("TRUC QUAN HOA CO PHIEU")
 
 # =============================
 # SIDEBAR
